@@ -1,0 +1,27 @@
+{
+  "name": "mofang",
+  "description": "A WebGL MoFang",
+  "main": "Gulpfile.js",
+  "authors": [
+    "Cassius Chen"
+  ],
+  "license": "Apache",
+  "keywords": [
+    "html5",
+    "coffee-script",
+    "calc"
+  ],
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor/assets",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}
